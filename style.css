@@ -1,0 +1,28 @@
+h1{
+
+    color: black;
+    background-color: powderblue;
+    border: 1px solid red;
+    border-radius: 10px;
+    max-width: 28%;
+}
+h2{
+
+    color: black;
+    background-color: powderblue;
+    border: 300px;
+    border-radius: 10px;
+    max-width: 22%;
+}
+h3{
+
+    color: black;
+    background-color: powderblue;
+    border: 300px;
+    border-radius: 10px;
+    max-width: 14%;
+}
+table{
+    align-items: center;
+    text-align: center;
+}
